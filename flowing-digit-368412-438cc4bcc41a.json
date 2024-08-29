@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flowing-digit-000000",
+  "private_key_id": "438ccxxxx41a9xxxx6159xxxxb19dxxxxd8a1dxx",
+  "private_key": "-----BEGIN PRIVATE KEY----- ............+Sk3FS7UIdPz\nbu7Gxxxxxxxxxxxxxxx=\n..........  -----END PRIVATE KEY-----\n",
+  "client_email": "i-am-a-programmer-bot@flowing-digit-000000.iam.gserviceaccount.com",
+  "client_id": "10xxxxxxxxxxxxxxxx21",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/i-am-a-programmer-bot%40flowing-digit-000000.iam.gserviceaccount.com"
+}

@@ -1,0 +1,5 @@
+async-timeout
+discord
+Pillow
+DiscordUtils
+gspread

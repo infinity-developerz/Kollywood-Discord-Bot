@@ -1,0 +1,35 @@
+{
+  "reaction_message_channel_id": [
+    1056508543836115034, 1051904483103350814,1056508624811339827,1056508939967152158
+  ],
+  "channels": {
+    "form_channel_id":1051904492829954092,
+    "visa_approved_announcement_channel_id": 1051904499863801866,
+    "visa_decliend_announcement_channel_id": 1051904501155627009,
+    "on_hold_announcment_channel_id": 1051904504158752828,
+    "visa_process_log_channel_id": 1051904462589010061,
+    "application_form_log_channel_id": 1051904473737461840,
+    "voice_process_announcement_channel_id": 1051904494901940276,
+    "voice_process_waiting_voice_channel_id": 1051904424429228102,
+    "server_restart_announcment_channel_id": 1056508624811339827,
+    "find_member_channel_id":1056510961063833620,
+    "bot_logging_channel_id": 1051904477545906278,
+    "rules_channel1_id": 1051904486005801001,
+    "rules_channel2_id": 1051904487591252028,
+    "rules_channel3_id": 1051904488878899311,
+    "rules_channel4_id": 1051904490040729710,
+    "pd_log_channel_id":1076488306788937768,
+    "ems_log_channel_id":1076409624481235004,
+    "surgery_req_channel_id":1051904590674677790
+  },
+  "roles": {
+    "visa_give_role_id": 1058816348580483122,
+    "voice_process_role_id": 1051904368837931050,
+    "community_role":1051904368250716320,
+    "audition_team_role_id":1051904350852751400,
+    "pd_high_command_role":1055860016084680784,
+    "bot_permission_role_name": "Audition Team",
+    "restart_permission_role_name":"Lead Dev"
+  },
+  "reaction_emoji": ["<a:Alphabet_K:878036802269761537>","<a:Alphabet_D:878035992395800677>","<a:Alphabet_R:878037454345621574>","<a:Alphabet_P:878037293699575818>"]
+}
